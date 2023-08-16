@@ -1,0 +1,94 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "rating": 3,
+      "author": "João",
+      "comment": "Atendimento bom"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "author": "Thiago",
+      "comment": "Excelente Atendimento"
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "author": "Helton",
+      "comment": "Ótimo atendimento"
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "author": "Luana",
+      "comment": "Excelente profissionais"
+    },
+    {
+      "id": 3.4334506570952366,
+      "rating": 5,
+      "author": "Fabio",
+      "comment": "Excelente"
+    },
+    {
+      "id": 4.872029783565078,
+      "rating": 5,
+      "author": "Fabio",
+      "comment": "Excelente"
+    },
+    {
+      "id": 1.623999178705684,
+      "rating": 5,
+      "author": "Fabio",
+      "comment": "Excelente"
+    },
+    {
+      "id": 2.145312710103106,
+      "rating": 5,
+      "author": "Fabio",
+      "comment": "Excelente"
+    },
+    {
+      "id": 0.6919041298834072,
+      "rating": 5,
+      "author": "Fabio",
+      "comment": "Excelente"
+    },
+    {
+      "id": 10.551520954312924,
+      "rating": 5,
+      "author": "Fabio",
+      "comment": "Excelente"
+    },
+    {
+      "id": 5.431192436972212,
+      "rating": 5,
+      "author": "Fabio",
+      "comment": "Excelente"
+    },
+    {
+      "id": 9.36457670284762,
+      "rating": 4,
+      "author": "Junior",
+      "comment": "Otimo"
+    },
+    {
+      "id": 8.854359579898073,
+      "rating": 3,
+      "author": "Junior",
+      "comment": "òtimo"
+    },
+    {
+      "id": 3.4774259754679826,
+      "rating": 1,
+      "author": "Bruna",
+      "comment": "ruim"
+    },
+    {
+      "id": 1.1614604810238776,
+      "rating": 3,
+      "author": "Ruan",
+      "comment": "perfeito"
+    }
+  ]
+}
